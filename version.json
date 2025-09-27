@@ -1,4 +1,4 @@
 {
-  "version": "1.0.7",
-  "patch_note": "Version 1.0.7 - New Features and Improvements\n\n• Added Patch Notes functionality - View update details in a dedicated modal\n• Enhanced update banner with Patch Notes button for easy access\n• Improved download experience with custom filename support\n• Better user experience for viewing update details\n• Fixed minor UI inconsistencies\n• Performance optimizations"
+  "version": "1.0.8",
+  "patch_note": "Version 1.0.8 - New Features and Improvements\n\n• Added replay manager - Rename clips, re-render clips with different player POV, maps and change clip start time\n• View scoreboard of the game from the replay"
 }
