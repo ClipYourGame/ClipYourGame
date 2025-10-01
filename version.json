@@ -1,4 +1,4 @@
 {
-  "version": "1.0.12",
-  "patch_note": "Version 1.0.12 - Fixes and Changes\n\n• Video player full screen won't show a scrollbar anymore\n• Videos will now preload the metadata instead of preloading on play, this will show as a loading screen until complete\n• Removed placeholder values in the Point of View dropdown, it will show the creator's details if it's an older clip\n• Minimum clips per row is now 4 instead of 6, meaning it should now fill all the available clip slots when switching screen size\n• When switching to LG from SM page 4 out of 5, it will no longer show 'No clips found', it now correctly updates the pagination number on screen size change\n• Scoreboard scrollbar removed (invisible but remains functional)\n\nHotfix\n\n• Removed the ability to change maps for clips created in 4v4 playlist\n• Updated the map list for settings and clips"
+  "version": "1.0.13",
+  "patch_note": "Version 1.0.13 - Patch Notes\n\n• More aggressive approach to properly closing all Clip Your Game.exe processes\n• Clip dropdown now shows when the clip expires"
 }
