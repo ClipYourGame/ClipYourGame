@@ -1,0 +1,9 @@
+{
+  "version": "1.0.16",
+  "patch_note": "Version 1.0.16 - Patch Notes\n\n• More aggressive approach to properly closing all Clip Your Game.exe processes\n• Clip dropdown now shows when the clip expires",
+    "announcement": {
+      "importance": "critical",
+      "title": "Cloudflare Outage",
+      "message": "Clip Your Game services are currently impacted..."
+    }
+}
