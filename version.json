@@ -1,4 +1,4 @@
 {
-  "version": "1.0.17",
-  "patch_note": "Version 1.0.17 - Patch Notes\n\n• More aggressive approach to properly closing all Clip Your Game.exe processes\n• Clip dropdown now shows when the clip expires\n• Announcement banner when services are down or affected"
+  "version": "1.0.18",
+  "patch_note": "• More aggressive approach to properly closing all Clip Your Game.exe processes\n• Clip dropdown now shows when the clip expires\n• Announcement banner when services are down or affected"
 }
