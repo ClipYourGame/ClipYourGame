@@ -1,4 +1,4 @@
 {
-  "version": "1.0.21",
+  "version": "1.0.22",
   "patch_note": "• Announcement banner when services are down or affected\n• Sidebar navigation added — including a new Profile option to show clip statistics\n• Bug Report modal fixed"
 }
