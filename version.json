@@ -1,4 +1,4 @@
 {
-  "version": "1.0.27",
-  "patch_note": "• Announcement banner when services are down or affected\n• Sidebar navigation added — including a new Profile option to show clip statistics\n• Bug Report modal fixed\n• Clips get deleted after 30 days instead of 90 days"
+  "version": "1.0.28",
+  "patch_note": "• Announcement banner when services are down or affected\n• Sidebar navigation added — including a new Profile option to show clip statistics\n• Bug Report modal fixed\n• Clips get deleted after 30 days instead of 90 days\n• Desktop App UI changes"
 }
